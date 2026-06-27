@@ -1,8 +1,8 @@
-# ✨ Resume Genie — AI-Powered Career Assistant
+# ✨ Resume Genie - AI-Powered Career Assistant
 
 A multi-tool AI career assistant built with Google Gemini API and Streamlit.
 
-🔗 **Live Demo:** [Click Here](https://your-app-url.streamlit.app)
+🔗 **Live Demo:** [Click Here](https://resume-genie-jfpe4e3rem4wtqfmymnepd.streamlit.app/)
 
 ---
 
